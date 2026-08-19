@@ -1,9 +1,9 @@
 <img width="1598" height="672" alt="image" src="https://github.com/user-attachments/assets/821bdeba-7cab-4a74-94cd-98d780bb63d4" />
 
-## Hi there 👋 
+## Hi there 👾
 
 - # 💫 Ask me about:
--  Product engineering, Blockchain security, and Speculative Technologies.
+- Product engineering, Blockchain security, and Speculative Technologies.
 - Fun fact: Human after all.<br>
 
 
@@ -12,6 +12,6 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/digitalreal1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/imnimite0z?s=11) 
+https://x.com/imnimite0z?s=11
 
 📌 Still growing
